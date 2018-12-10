@@ -1,0 +1,11 @@
+{
+  "name": "BULVRD Welcome",
+  "image": "https://s3.amazonaws.com/bulvrdapp.com/assets/sport-car.png", 
+  "description": "A gift from BULVRD for joining the community!", 
+  "attributes": {
+    "level": 0,
+    "personality": "curious"
+  },
+  "external_url": "https://bulvrdapp.com/0", 
+  "background_color": "00FFFF"
+}
